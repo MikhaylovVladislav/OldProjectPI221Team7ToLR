@@ -39,7 +39,7 @@ public class ListenerButtonBack implements ActionListener {
 	JLabel ddd = new JLabel("3) Максим Витальевич, Номер зачетной книжки - 015");
 	ddd.setBounds(10,40,450,90); 
 	
-	JLabel ccc = new JLabel("4) Артем Николаевич, Номер зачетной книжки - 151");
+	JLabel ccc = new JLabel("4) Артем Николаевич, Номер зачетной книжки - 151, 06.03.2021");
 	ccc.setBounds(10,60,450,120);
 	
 	asd.setBounds(10,150,440,140);
